@@ -3,3 +3,6 @@ Spring MVC revision
 SOAP vs REST
 Authentication vs Authorization
 SOLID properties
+
+OOPS concept
+Annotations in spring
